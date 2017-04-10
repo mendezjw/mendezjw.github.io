@@ -112,11 +112,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comm
+      
 
 kramdown:
   input: GFM
