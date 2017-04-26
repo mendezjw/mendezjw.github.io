@@ -7,7 +7,7 @@ image: /img/numbers.jpg
 ---
 TL;DR: The public education system has become the source of the current plagiarism dilemma.
 
-Plagiarism has been a recurring problem in the public education system.
+Plagiarism has been a recurring problem in the public education system. Students are now turning to copying other peoples working as their own due to the high amount of stress on them to do well. Students now have to deal with the pressures of sustaining a GPA and writing a paper that will standout in their college process. 
 
 
 
